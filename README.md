@@ -1,6 +1,6 @@
 # Batch-Binary-Kummer-BBK251
 
-The base implementation is the the software BBE251 which is available at the following site:
+The base implementation is the software BBE251 which is available at the following site:
 
 https://binary.cr.yp.to/edwards.html
 
